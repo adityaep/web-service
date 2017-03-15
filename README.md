@@ -1,1 +1,3 @@
-# web
+# webservice
+
+Proyek kuliah web service
